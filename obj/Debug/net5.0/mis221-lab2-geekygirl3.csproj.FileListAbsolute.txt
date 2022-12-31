@@ -1,0 +1,16 @@
+C:\Users\lacyr\source\repos\mis221-lab2-geekygirl3\mis221-lab2-geekygirl3\bin\Debug\net5.0\mis221-lab2-geekygirl3.exe
+C:\Users\lacyr\source\repos\mis221-lab2-geekygirl3\mis221-lab2-geekygirl3\bin\Debug\net5.0\mis221-lab2-geekygirl3.deps.json
+C:\Users\lacyr\source\repos\mis221-lab2-geekygirl3\mis221-lab2-geekygirl3\bin\Debug\net5.0\mis221-lab2-geekygirl3.runtimeconfig.json
+C:\Users\lacyr\source\repos\mis221-lab2-geekygirl3\mis221-lab2-geekygirl3\bin\Debug\net5.0\mis221-lab2-geekygirl3.runtimeconfig.dev.json
+C:\Users\lacyr\source\repos\mis221-lab2-geekygirl3\mis221-lab2-geekygirl3\bin\Debug\net5.0\mis221-lab2-geekygirl3.dll
+C:\Users\lacyr\source\repos\mis221-lab2-geekygirl3\mis221-lab2-geekygirl3\bin\Debug\net5.0\ref\mis221-lab2-geekygirl3.dll
+C:\Users\lacyr\source\repos\mis221-lab2-geekygirl3\mis221-lab2-geekygirl3\bin\Debug\net5.0\mis221-lab2-geekygirl3.pdb
+C:\Users\lacyr\source\repos\mis221-lab2-geekygirl3\mis221-lab2-geekygirl3\obj\Debug\net5.0\mis221-lab2-geekygirl3.csproj.AssemblyReference.cache
+C:\Users\lacyr\source\repos\mis221-lab2-geekygirl3\mis221-lab2-geekygirl3\obj\Debug\net5.0\mis221-lab2-geekygirl3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacyr\source\repos\mis221-lab2-geekygirl3\mis221-lab2-geekygirl3\obj\Debug\net5.0\mis221-lab2-geekygirl3.AssemblyInfoInputs.cache
+C:\Users\lacyr\source\repos\mis221-lab2-geekygirl3\mis221-lab2-geekygirl3\obj\Debug\net5.0\mis221-lab2-geekygirl3.AssemblyInfo.cs
+C:\Users\lacyr\source\repos\mis221-lab2-geekygirl3\mis221-lab2-geekygirl3\obj\Debug\net5.0\mis221-lab2-geekygirl3.csproj.CoreCompileInputs.cache
+C:\Users\lacyr\source\repos\mis221-lab2-geekygirl3\mis221-lab2-geekygirl3\obj\Debug\net5.0\mis221-lab2-geekygirl3.dll
+C:\Users\lacyr\source\repos\mis221-lab2-geekygirl3\mis221-lab2-geekygirl3\obj\Debug\net5.0\ref\mis221-lab2-geekygirl3.dll
+C:\Users\lacyr\source\repos\mis221-lab2-geekygirl3\mis221-lab2-geekygirl3\obj\Debug\net5.0\mis221-lab2-geekygirl3.pdb
+C:\Users\lacyr\source\repos\mis221-lab2-geekygirl3\mis221-lab2-geekygirl3\obj\Debug\net5.0\mis221-lab2-geekygirl3.genruntimeconfig.cache
